@@ -1,5 +1,5 @@
 # HorizonTheme
-Dark theme for BetterDiscord based on the Horizon theme for Visual Studio Code.
+Dark theme for BetterDiscord based on the [Horizon theme for Visual Studio Code.](https://horizontheme.netlify.app/)
 
 # Note: This is a pre-release and not a final product
 
