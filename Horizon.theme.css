@@ -10,7 +10,7 @@
 :root {
 	/* Horizon Colours */
 	--horizon-background: #1C1E26 !important;
-	--horizon-current-line: #2E303E !important;
+	--horizon-current-line: #1C1E26 !important;
 	--horizon-selection: #2E303E !important;
 	--horizon-foreground: #f8f8f2 !important;
 	--horizon-comment: #6272a4 !important;
