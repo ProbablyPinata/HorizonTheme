@@ -8,7 +8,7 @@
 **/
 
 :root {
-	/* Horizon Colours */
+	/* Horizon Colours */ 
 	--horizon-background: #1C1E26 !important;
 	--horizon-current-line: #1C1E26 !important;
 	--horizon-selection: #2E303E !important;
@@ -26,7 +26,7 @@
 	--background-secondary: var(--horizon-background) !important;
 	--background-secondary-alt: var(--horizon-background) !important;
 	--background-tertiary: var(--horizon-background) !important;
-	--background-accent: var(--horizon-current-line) !important;
+	--background-accent: var(--horizon-background) !important;
 	--background-floating: var(--horizon-background) !important;
 	--activity-card-background: var(--horizon-background) !important;
 	--interactive-normal: var(--horizon-foreground) !important;
@@ -40,6 +40,10 @@
 	--interactive-muted: var(--horizon-comment) !important;
 	}
 	
+	.peopleList-3c4jOR {
+		background-color: var(--horizon-background) !important;
+	}
+
 	.da-acronym {
 	--background-primary: var(--horizon-selection) !important;
 	}
