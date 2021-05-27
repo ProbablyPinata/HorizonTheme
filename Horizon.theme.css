@@ -40,6 +40,10 @@
 	--interactive-muted: var(--horizon-comment) !important;
 	}
 	
+	.friendsEmpty-1K9B4k {
+		background-color: var(--horizon-background) !important;
+	}
+	
 	.peopleList-3c4jOR {
 		background-color: var(--horizon-background) !important;
 	}
