@@ -1,7 +1,7 @@
 # HorizonTheme
 Dark theme for [BetterDiscord](https://betterdiscord.app/) based on the [Horizon theme for Visual Studio Code.](https://horizontheme.netlify.app/)
 
-If you would like to give me feedback don't hesitate to contact me on discord; username -> ~/pinata/.cache#7584
+If you would like to give me feedback don't hesitate to contact me on discord @ ~/pinata/.cache#7584
 
 ![Preview 1](https://i.imgur.com/ZXB40Tv.png "Preview 1")
 
